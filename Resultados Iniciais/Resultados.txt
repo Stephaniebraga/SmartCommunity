@@ -1,0 +1,38 @@
+**Cenário PU - 11 cargas (10 casas com as mesmas casas): Total de 110 cargas
+
+Finalizou em 3.935190323988597 minutos
+Custo Inicial sem SHC e sem Bateria: 1135.0104150144996
+Custo com SHC Bateria: 1066.3967933368058
+Ganho de: 6.045197539162422 %
+
+**Cargas Aleatórias - 10 cargas (10 casas): Total de 100 cargas
+
+Finalizou em 4.19212410847346 minutos
+Custo Inicial sem SHC e sem Bateria: 1013.2266223400003
+Custo com Bateria: 969.658271543477
+Ganho de: 4.299961117869588 %
+
+**Cargas Aleatórias - 10 cargas (100 casas): Total de 1000 cargas
+
+Finalizou em 4.391730797290802 minutos
+Custo Inicial sem SHC e sem Bateria: 3018.482689850001
+Custo com Bateria: 2872.2424646761465
+Ganho de: 4.844825702184878 %
+
+**Cargas Aleatórias - 10 cargas (1000 casas): Total de 10000 cargas
+
+Finalizou em 4.410391688346863 minutos
+Custo  Inicial sem SHC e sem Bateria: 27449.779035250012
+Custo com Bateria: 26704.300157882924
+Ganho de: 2.7157919064112357 %
+
+------------------------------------------------------------
+----- Cargas aleatórias com intervalo de inicialização
+
+**Cargas Aleatórias - 10 cargas (10 casas): Total de 100 cargas
+Finalizou em 3.841317633787791 minutos
+Custo sem Bateria: 1260.7951018282627
+Custo com Bateria: 1127.7345673171546
+Ganho de: 10.553700146689868
+
+**Cargas Aleatórias - 10 cargas (1000 casas): Total de 10000 cargas
